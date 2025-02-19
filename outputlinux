@@ -1,0 +1,38 @@
+
+1)lab7@lab7-Veriton-M200-H310:~$ gedit odeeve.sh
+  lab7@lab7-Veriton-M200-H310:~$ chmod +x odeeve.sh
+  lab7@lab7-Veriton-M200-H310:~$ ./odeeve.sh
+  Enter a number :
+  12
+  12 is an even number
+  lab7@lab7-Veriton-M200-H310:~$ 
+
+
+2)lab7@lab7-Veriton-M200-H310:~$ gedit greatest.sh
+  lab7@lab7-Veriton-M200-H310:~$ chmod +x greatest.sh
+  lab7@lab7-Veriton-M200-H310:~$ ./greatest.sh
+  Enter 1st number
+  10
+  Enter 2st number
+  15
+  Enter 3rd number
+  7
+  15 is the greatest number
+  
+3)lab7@lab7-Veriton-M200-H310:~$ gedit ave.sh
+  lab7@lab7-Veriton-M200-H310:~$ chmod +x ave.sh
+  lab7@lab7-Veriton-M200-H310:~$ chmod +x ave.sh
+  lab7@lab7-Veriton-M200-H310:~$ ./ave.sh
+  Enter 1st number
+  3
+  Enter 2st number
+  4
+  Enter 3rd number
+  5
+  Enter 4rd number
+  6
+  sum: 18
+  average: 4
+  product: 360
+
+
